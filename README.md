@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=radical)
