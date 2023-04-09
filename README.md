@@ -1,14 +1,15 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
-
-
-#Park Jin Sung 
-
-👋 About me
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSungPark&fontSize=60)
 
 
 
-💻 Experience
+
+<h3 align="center"><b>👋 About me 👋</b></h3>
+
+
+
+<h3 align="center"><b>💻 Experience 💻</b></h3>
+
 
 </br></br>
 
