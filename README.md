@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSungPark&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSungPark&fontSize=60&fontColor=ffffff)
 
 
 
@@ -27,8 +27,12 @@
 
 </br></br>
 
+
+<p align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=radical)
 
-
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=plashdof)](https://solved.ac/plashdof)
+  
+</p>
 
