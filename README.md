@@ -4,11 +4,11 @@
 
 
 
-<h3 align="center"><b>👋 About me 👋</b></h3>
+<h2><b>👋 About me </b></h2>
 
 
 
-<h3 align="center"><b>💻 Experience 💻</b></h3>
+<b>💻 Experience </b>
 
 
 </br>
