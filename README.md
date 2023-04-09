@@ -8,6 +8,7 @@
 
 - 인하대학교 컴퓨터공학과 재학 (2016.03 ~) 
 - <a href="https://risingcamp.com/">라이징캠프 10기 (DX 인재 양성 및 매칭 프로그램)</a> : Android 파트 수료 (2022.09 ~ 2022.11)
+- <a href="https://startup.inha.ac.kr/index.htm">인하대 창업지원단 실무연계</a> : 스타트업 EasyTask 과제 진행 (2023.01 ~ 2023.03)
 - <a href="https://www.makeus.in/umc">앱런칭 동아리 UMC 4기</a> : Android 파트 진행중(2023.03 ~)
 
 </br>
