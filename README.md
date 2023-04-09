@@ -1,7 +1,9 @@
 
+<h2>Park Jin Sung / Android Developer </h2>
+머무르지 않는 개발자 박진성입니다 🏃‍♂️
+
 
 <h2><b>🛠 Tech Stack 🛠</b></h2>
-</br>
 
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
