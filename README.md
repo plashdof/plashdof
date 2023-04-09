@@ -1,11 +1,11 @@
 
 <h2>Park Jin Sung / Android Developer </h2>
 안녕하세요 머무르지 않는 개발자 박진성입니다 🏃‍♂️
-
+<br>
 <a href="https://candle-square-1e7.notion.site/About-Me-4d53f3f1f2e34bd5aa040ec8fb66c82b">🏸 Notion 이력서</a>
 
 
-</br></br>
+</br>
 
 <h2><b>💻 History </b></h2>
 
