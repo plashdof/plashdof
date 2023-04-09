@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
+</br></br>
+
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -18,6 +21,10 @@
 **plashdof/plashdof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 Here are some ideas to get you started:
 
