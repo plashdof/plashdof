@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="#7F52FF"/></a>
+<img src="https://img.shields.io/badge/#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=radical)
