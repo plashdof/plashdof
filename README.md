@@ -8,15 +8,15 @@
 
 
 
-<b>💻 Experience </b>
+<h2><b>💻 Experience </b></h2>
 
 
 </br>
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h2><b>🛠 Tech Stack 🛠</b></h2>
 </br>
-<p align="center">
+
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
