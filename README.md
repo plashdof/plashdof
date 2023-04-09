@@ -29,8 +29,8 @@
 
 <h3 align="center"><b>✨ Github Stats ✨</b></h3>
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=plashdof&theme=vue&show_icons=true"/></a>
 </p>
   
 
