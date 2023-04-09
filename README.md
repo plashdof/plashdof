@@ -39,3 +39,11 @@
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
+
+</br></br>
+
+<h2><b>🎇 Github Stats 🎇</b></h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=merko)
+
+</br></br>
