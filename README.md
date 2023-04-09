@@ -1,16 +1,8 @@
 
 <h2>Park Jin Sung / Android Developer </h2>
-머무르지 않는 개발자 박진성입니다 🏃‍♂️
+안녕하세요 머무르지 않는 개발자 박진성입니다 🏃‍♂️
 
 </br></br>
-
-<h2><b>🛠 Tech Stack 🛠</b></h2>
-
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-
-</br>
 
 <h2><b>💻 History </b></h2>
 
@@ -27,5 +19,11 @@
 - 2022 이노씽크 메이커톤 : 친환경 공유핫팩 인프라 및 앱서비스 개발 (2023.01)
 - 외주 (플레어즈) : 웹툰 플랫폼 앱 개발 (2023.02 ~)
 
+</br>
 
+<h2><b>🛠 Tech Stack 🛠</b></h2>
+
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
