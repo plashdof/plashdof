@@ -28,14 +28,10 @@
 </br></br>
 
 <h3 align="center"><b>✨ Github Stats ✨</b></h3>
-  
+
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plashdof&show_icons=true&theme=radical)
-
-</br></br>
-
-<h3 align="center"><b>✨ Algorithm ✨</b></h3>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=plashdof)](https://solved.ac/plashdof)
+</p>
   
 
 
