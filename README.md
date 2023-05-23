@@ -31,7 +31,7 @@
   - 팀 : Server 1 / Android 1 / HW 2 / Designer 1 / Planner 1  중 Android
   - 스택 : kotlin 
   </br>
-- 외주 (플레어즈) : 웹툰 플랫폼 앱 개발 (2023.02 ~)
+- 외주 (GRIDGE) : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~)
   - 팀 : Server 3 / Web 3 / Android 1 / ios 1 / Designer 1 / Planner 1 중 Android
   - 스택 : kotlin 
 
