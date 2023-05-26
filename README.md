@@ -19,15 +19,15 @@
 
 <h2><b>📒 Project </b></h2>
 
-- 한이음 ICT멘토링 공모전 :  <a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a> (2022.03 ~ 2022.12)
+- ICT멘토링 공모전 (한이음) :  <a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a> (2022.03 ~ 2022.12)
   - 팀 : FrontEnd 2 / BackEnd 2 / AI 1 중 FrontEnd
   - 스택 : React.js / React Native
   </br>
-- 라이징테스트 : <a href="https://github.com/plashdof/Instaclone_kotlin">인스타그램 클론코딩</a> (2022.10 ~ 2022.11)
+- 라이징테스트 (SoftSquared) : <a href="https://github.com/plashdof/Instaclone_kotlin">인스타그램 클론코딩</a> (2022.10 ~ 2022.11)
   - 팀 : Server 2 / Android 2 중 Android
   - 스택 : Kotlin 
   </br>
-- 2022 이노씽크 메이커톤 : <a href="https://github.com/plashdof/Chargeheat_kotlin">친환경 공유핫팩 인프라 및 앱서비스 개발</a> (2023.01)
+- 2022 이노씽크 메이커톤 (인하대학교) : <a href="https://github.com/plashdof/Chargeheat_kotlin">친환경 공유핫팩 인프라 및 앱서비스 개발</a> (2023.01)
   - 팀 : Server 1 / Android 1 / HW 2 / Designer 1 / Planner 1  중 Android
   - 스택 : kotlin 
   </br>
