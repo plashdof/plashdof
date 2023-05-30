@@ -32,12 +32,12 @@
 - 2022 이노씽크 메이커톤 : <a href="https://github.com/plashdof/Chargeheat_kotlin">친환경 공유핫팩 인프라 및 앱서비스 개발</a> (2023.01)
   - 주관 : 인하대학교
   - 팀 : Server 1 / Android 1 / HW 2 / Designer 1 / Planner 1  중 Android
-  - 스택 : kotlin 
+  - 스택 : Kotlin 
   </br>
 - 외주 : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~)
   - 주관 : GRIDGE
   - 팀 : Server 3 / Web 3 / Android 1 / ios 1 / Designer 1 / Planner 1 중 Android
-  - 스택 : kotlin 
+  - 스택 : Kotlin 
 
 </br>
 
