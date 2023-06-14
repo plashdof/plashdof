@@ -5,6 +5,14 @@
 </br></br>
 <a href="https://candle-square-1e7.notion.site/About-Me-4d53f3f1f2e34bd5aa040ec8fb66c82b">🏸 Notion 이력서</a>
 
+</br>
+
+<h2><b>🛠 Tech Stack 🛠</b></h2>
+
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 
 </br>
 
@@ -28,14 +36,9 @@
 
 </br>
 
-<h2><b>🛠 Tech Stack 🛠</b></h2>
-
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 
 
-</br></br>
+
+
 
 
