@@ -3,7 +3,7 @@
 안녕하세요 머무르지 않는 개발자 박진성입니다 🏃‍♂️
 
 </br></br>
-<a href="https://candle-square-1e7.notion.site/About-Me-4d53f3f1f2e34bd5aa040ec8fb66c82b">🏸 Notion 이력서</a>
+<a href="https://candle-square-1e7.notion.site/About-Me-4d53f3f1f2e34bd5aa040ec8fb66c82b">🏸 포트폴리오</a>
 
 </br>
 
