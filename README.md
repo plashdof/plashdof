@@ -33,7 +33,11 @@
 - 외주(Private) : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~)
   - 주관 : GRIDGE
   - 팀 : Server 3 / Web 3 / Android 1 / ios 1 / Designer 1 / Planner 1 중 Android
-
+  </br>
+- 2023 SW중심대 해커톤 : <a href="https://github.com/plashdof/TAXX_Kotlin">택시 퀵서비스 중개 앱 개발</a> (2023.06)
+  - 주관 : SW중심대학
+  - 팀 : Server 2 / Android 2 / Designer 1 중 Android
+  </br>
 </br>
 
 
