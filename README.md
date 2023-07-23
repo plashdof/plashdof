@@ -30,7 +30,7 @@
   - 주관 : 인하대학교
   - 팀 : Server 1 / Android 1 / HW 2 / Designer 1 / Planner 1  중 Android
   </br>
-- 외주(Private) : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~)
+- 외주(Private) : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~ 2023.06)
   - 주관 : GRIDGE
   - 팀 : Server 3 / Web 3 / Android 1 / ios 1 / Designer 1 / Planner 1 중 Android
   </br>
