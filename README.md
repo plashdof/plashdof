@@ -18,7 +18,16 @@
 
 <h2><b>📒 Project </b></h2>
 
-- 한이음 ICT멘토링 공모전 :  <a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a> (2022.03 ~ 2022.12)
+|프로젝트명|주관|내용|파트|기간|
+|---|---|---|---|---|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.10 ~ 2022.11)|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+
+- 한이음 ICT멘토링 공모전 :  <a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a> 
   - 주관 : 한이음
   - 팀 : FrontEnd 2 / BackEnd 2 / AI 1 중 FrontEnd
   </br>
