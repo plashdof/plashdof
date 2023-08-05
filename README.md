@@ -18,36 +18,18 @@
 
 <h2><b>📒 Project </b></h2>
 
-|프로젝트명|주관|내용|파트|기간|
-|---|---|---|---|---|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.10 ~ 2022.11)|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
-|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|개요|내용|파트|기간|
+|---|---|---|---|
+|한이음 ICT멘토링 공모전|<a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a>|FrontEnd|(2022.03 ~ 2022.12)|
+|SoftSquared 라이징테스트|<a href="https://github.com/plashdof/Instaclone_kotlin">인스타그램 클론코딩 개발</a>|Android|(2022.10 ~ 2022.11)|
+|2022 이노씽크 메이커톤|<a href="https://github.com/plashdof/Chargeheat_kotlin">친환경 공유핫팩 인프라 및 앱서비스 개발</a>|Android|(2023.01)|
+|GRIDGE 외주(Private)|웹툰 플랫폼 하이브리드 앱 개발|Android|(2023.02 ~ 2023.06)|
+|2023 SW중심대 해커톤|<a href="https://github.com/plashdof/TAXX_Kotlin">택시 퀵서비스 중개 앱 개발</a> |Android|(2023.06)|
+|UMC 데모데이|화장실 중개 및 안내 서비스 앱 개발|Android|(2023.07 ~ )|
+|GRIDGE 외주(Private)|이커머스 플랫폼 앱 개발|Android|(2023.07 ~ )|
 
-- 한이음 ICT멘토링 공모전 :  <a href="https://github.com/plashdof/stockProject_React_Native">AI 기반 주식 퀀트 트레이딩 웹/앱 개발</a> 
-  - 주관 : 한이음
-  - 팀 : FrontEnd 2 / BackEnd 2 / AI 1 중 FrontEnd
-  </br>
-- 라이징테스트 : <a href="https://github.com/plashdof/Instaclone_kotlin">인스타그램 클론코딩</a> (2022.10 ~ 2022.11)
-  - 주관 : SoftSquared 라이징 캠프
-  - 팀 : Server 2 / Android 2 중 Android
-  </br>
-- 2022 이노씽크 메이커톤 : <a href="https://github.com/plashdof/Chargeheat_kotlin">친환경 공유핫팩 인프라 및 앱서비스 개발</a> (2023.01)
-  - 주관 : 인하대학교
-  - 팀 : Server 1 / Android 1 / HW 2 / Designer 1 / Planner 1  중 Android
-  </br>
-- 외주(Private) : 웹툰 플랫폼 앱 플레어즈 개발 (2023.02 ~ 2023.06)
-  - 주관 : GRIDGE
-  - 팀 : Server 3 / Web 3 / Android 1 / ios 1 / Designer 1 / Planner 1 중 Android
-  </br>
-- 2023 SW중심대 해커톤 : <a href="https://github.com/plashdof/TAXX_Kotlin">택시 퀵서비스 중개 앱 개발</a> (2023.06)
-  - 주관 : SW중심대학
-  - 팀 : Server 2 / Android 2 / Designer 1 중 Android
-  </br>
-</br>
+
+
 
 
 
