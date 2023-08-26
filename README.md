@@ -26,7 +26,8 @@
 |2023.02 ~ 2023.06|GRIDGE 외주(Private)|웹툰 플랫폼 하이브리드 앱 '플레어즈' 개발|Android|
 |2023.06|2023 SW중심대 해커톤|<a href="https://github.com/plashdof/TAXX_Kotlin">택시 퀵서비스 중개 앱 개발</a> |Android|
 |2023.07 ~ 2023.08|GRIDGE 외주(Private)|이커머스 플랫폼 앱 '큐마켓' 유지보수|Android|
-|2023.07 ~ |UMC 데모데이|화장실 중개 및 안내 서비스 앱 개발|Android|
+|2023.07 ~ 2023.08|UMC 데모데이|<a href="https://github.com/chamjimayo/chamma-android">화장실 중개 및 안내 서비스 앱 개발</a>|Android|
+|2023.08 ~ |GRIDGE 외주(Private)|일상구독 플랫폼 하이브리드 앱 개발|Android|
 
 
 
