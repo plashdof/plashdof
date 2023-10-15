@@ -3,7 +3,8 @@
 안녕하세요 머무르지 않는 개발자 박진성입니다 🏃‍♂️
 
 </br></br>
-<a href="https://plashdof.notion.site/Android-Developer-4d53f3f1f2e34bd5aa040ec8fb66c82b?pvs=4">🏸 포트폴리오</a>
+
+<a href="https://plashdof.notion.site/Android-Developer-e21266b2846e473aa36ba732b9d847f9?pvs=4">🏸 포트폴리오</a>
 
 </br>
 
