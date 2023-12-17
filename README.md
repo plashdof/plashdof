@@ -4,7 +4,7 @@
 
 </br></br>
 https://plashdof.notion.site/Android-Developer-139b0c3b7ae54f1090a8b150fc7e1865?pvs=4
-<a href="https://plashdof.notion.site/Android-Developer-139b0c3b7ae54f1090a8b150fc7e1865?pvs=4">🏸 포트폴리오</a>
+<a href="https://plashdof.notion.site/Android-Developer-139b0c3b7ae54f1090a8b150fc7e1865?pvs=4"> 🏸 포트폴리오 </a>
 
 </br>
 
