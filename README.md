@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Android-green?style=flat&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
 
 <h4><b>Interested</b></h4>
