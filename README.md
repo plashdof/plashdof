@@ -1,6 +1,5 @@
 
 <h2>Park Jin Sung / Android Developer </h2>
-안녕하세요 머무르지 않는 개발자 박진성입니다 🏃‍♂️
 
 </br></br>
 
